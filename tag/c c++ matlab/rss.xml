@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>白猫喝红茶 • Posts by &#34;c c++ matlab&#34; tag</title>
+        <link>https://cateattea.github.io</link>
+        <description>仅仅是作为尝试！</description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 04 Apr 2021 22:25:09 +0800</pubDate>
+        <lastBuildDate>Sun, 04 Apr 2021 22:25:09 +0800</lastBuildDate>
+        <category>c c++ matlab</category>
+        <item>
+            <guid isPermalink="true">https://cateattea.github.io/2021/04/04/fortest/</guid>
+            <title>fortest</title>
+            <link>https://cateattea.github.io/2021/04/04/fortest/</link>
+            <category>c c++ matlab</category>
+            <pubDate>Sun, 04 Apr 2021 22:25:09 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;#This is the first headling&lt;br&gt;
+Just for test&lt;br&gt;
+##This is the second headling&lt;br&gt;
+I want to go everywhere&lt;/p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css&#34;&gt; ]]></description>
+        </item>
+    </channel>
+</rss>
