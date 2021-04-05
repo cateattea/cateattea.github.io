@@ -18,11 +18,11 @@
             <category>c++</category>
             <category>matlab</category>
             <pubDate>Sun, 04 Apr 2021 22:25:09 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;this-is-the-first-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-first-headling&#34;&gt;#&lt;/a&gt; This is the first headling&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;This is the first headling&#34;&gt;&lt;a class=&#34;header-anchor&#34; href=&#34;#This is the first headling&#34;&gt;¶&lt;/a&gt; This is the first headling&lt;/h1&gt;
 &lt;p&gt;Just for test&lt;/p&gt;
-&lt;h2 id=&#34;this-is-the-second-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-second-headling&#34;&gt;#&lt;/a&gt; This is the second headling&lt;/h2&gt;
+&lt;h2 id=&#34;This is the second headling&#34;&gt;&lt;a class=&#34;header-anchor&#34; href=&#34;#This is the second headling&#34;&gt;¶&lt;/a&gt; This is the second headling&lt;/h2&gt;
 &lt;p&gt;I want to go everywhere&lt;/p&gt;
- ]]></description>
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css&#34;&gt; ]]></description>
         </item>
     </channel>
 </rss>
