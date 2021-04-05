@@ -4,7 +4,9 @@
     <title>白猫喝红茶</title>
     <link href="https://cateattea.github.io" />
     <updated>2021-04-04T14:25:09.000Z</updated>
-    <category term="c c++ matlab" />
+    <category term="c" />
+    <category term="c++" />
+    <category term="matlab" />
     <entry>
         <id>https://cateattea.github.io/2021/04/04/fortest/</id>
         <title>fortest</title>
@@ -14,7 +16,9 @@
 &lt;h2 id=&#34;this-is-the-second-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-second-headling&#34;&gt;#&lt;/a&gt; This is the second headling&lt;/h2&gt;
 &lt;p&gt;I want to go everywhere&lt;/p&gt;
 </content>
-        <category term="c c++ matlab" />
+        <category term="c" />
+        <category term="c++" />
+        <category term="matlab" />
         <updated>2021-04-04T14:25:09.000Z</updated>
     </entry>
     <entry>
