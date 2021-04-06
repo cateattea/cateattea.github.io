@@ -3,28 +3,14 @@
     <id>https://cateattea.github.io</id>
     <title>白猫喝红茶</title>
     <link href="https://cateattea.github.io" />
-    <updated>2021-04-04T14:25:09.000Z</updated>
+    <updated>2021-04-06T01:18:40.267Z</updated>
     <category term="c" />
     <category term="c++" />
     <category term="matlab" />
     <entry>
-        <id>https://cateattea.github.io/2021/04/04/fortest/</id>
-        <title>fortest</title>
-        <link rel="alternate" href="https://cateattea.github.io/2021/04/04/fortest/"/>
-        <content type="html">&lt;h1 id=&#34;this-is-the-first-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-first-headling&#34;&gt;#&lt;/a&gt; This is the first headling&lt;/h1&gt;
-&lt;p&gt;Just for test&lt;/p&gt;
-&lt;h2 id=&#34;this-is-the-second-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-second-headling&#34;&gt;#&lt;/a&gt; This is the second headling&lt;/h2&gt;
-&lt;p&gt;I want to go everywhere&lt;/p&gt;
-</content>
-        <category term="c" />
-        <category term="c++" />
-        <category term="matlab" />
-        <updated>2021-04-04T14:25:09.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://cateattea.github.io/2021/04/04/hello-world/</id>
+        <id>https://cateattea.github.io/2021/04/06/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="https://cateattea.github.io/2021/04/04/hello-world/"/>
+        <link rel="alternate" href="https://cateattea.github.io/2021/04/06/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -40,6 +26,20 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
 </content>
-        <updated>2021-04-04T06:47:52.192Z</updated>
+        <updated>2021-04-06T01:18:40.267Z</updated>
+    </entry>
+    <entry>
+        <id>https://cateattea.github.io/2021/04/04/fortest/</id>
+        <title>fortest</title>
+        <link rel="alternate" href="https://cateattea.github.io/2021/04/04/fortest/"/>
+        <content type="html">&lt;h1 id=&#34;this-is-the-first-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-first-headling&#34;&gt;#&lt;/a&gt; This is the first headling&lt;/h1&gt;
+&lt;p&gt;Just for test&lt;/p&gt;
+&lt;h2 id=&#34;this-is-the-second-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-second-headling&#34;&gt;#&lt;/a&gt; This is the second headling&lt;/h2&gt;
+&lt;p&gt;I want to go everywhere&lt;/p&gt;
+</content>
+        <category term="c" />
+        <category term="c++" />
+        <category term="matlab" />
+        <updated>2021-04-04T14:25:09.000Z</updated>
     </entry>
 </feed>
