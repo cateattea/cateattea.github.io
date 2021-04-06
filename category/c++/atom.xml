@@ -4,19 +4,19 @@
     <title>白猫喝红茶 • Posts by &#34;c++&#34; category</title>
     <link href="https://cateattea.github.io" />
     <updated>2021-04-04T14:25:09.000Z</updated>
+    <category term="Test" />
     <category term="c" />
     <category term="c++" />
     <category term="matlab" />
-    <category term="Test" />
     <entry>
         <id>https://cateattea.github.io/2021/04/04/fortest/</id>
         <title>fortest</title>
         <link rel="alternate" href="https://cateattea.github.io/2021/04/04/fortest/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;This is the first headling&#34;&gt;&lt;a class=&#34;header-anchor&#34; href=&#34;#This is the first headling&#34;&gt;¶&lt;/a&gt; This is the first headling&lt;/h1&gt;
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;this-is-the-first-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-first-headling&#34;&gt;#&lt;/a&gt; This is the first headling&lt;/h1&gt;
 &lt;p&gt;Just for test&lt;/p&gt;
-&lt;h2 id=&#34;This is the second headling&#34;&gt;&lt;a class=&#34;header-anchor&#34; href=&#34;#This is the second headling&#34;&gt;¶&lt;/a&gt; This is the second headling&lt;/h2&gt;
+&lt;h2 id=&#34;this-is-the-second-headling&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-second-headling&#34;&gt;#&lt;/a&gt; This is the second headling&lt;/h2&gt;
 &lt;p&gt;I want to go everywhere&lt;/p&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.6.0/katex.min.css&#34;&gt;</content>
+</content>
         <category term="c" />
         <category term="c++" />
         <category term="matlab" />
