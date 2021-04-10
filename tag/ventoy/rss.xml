@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>白猫喝红茶 • Posts by &#34;ventoy&#34; tag</title>
+        <link>https://cateattea.github.io</link>
+        <description>仅仅是作为尝试！</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 10 Apr 2021 14:20:33 +0800</pubDate>
+        <lastBuildDate>Sat, 10 Apr 2021 14:20:33 +0800</lastBuildDate>
+        <category>Test</category>
+        <category>C4D</category>
+        <category>原创</category>
+        <category>图片</category>
+        <category>系统</category>
+        <category>Ventoy</category>
+        <category>Windows</category>
+        <item>
+            <guid isPermalink="true">https://cateattea.github.io/2021/04/10/Ventoy%E8%A3%85%E7%B3%BB%E7%BB%9F/</guid>
+            <title>用Ventoy装系统</title>
+            <link>https://cateattea.github.io/2021/04/10/Ventoy%E8%A3%85%E7%B3%BB%E7%BB%9F/</link>
+            <category>系统</category>
+            <category>Ventoy</category>
+            <category>Windows</category>
+            <pubDate>Sat, 10 Apr 2021 14:20:33 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;ventoy装系统&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#ventoy装系统&#34;&gt;#&lt;/a&gt; Ventoy 装系统&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;都 2020 年了，不会还要在淘宝上买装机 U 盘吧，不会吧，不会吧。制作装系统 U 盘已经有很多方法，比如大家都知道的&lt;a href=&#34;https://www.dabaicai.com/&#34;&gt;大白菜&lt;/a&gt;，但是要是说目前最快速，纯净的装系统方案，首推 Ventoy (个人看法), 官方网站：&lt;a href=&#34;https://www.ventoy.net/%EF%BC%8C%E5%9F%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E5%AE%89%E8%A3%85%E5%B8%82%E9%9D%A2%E4%B8%BB%E6%B5%81%E7%9A%84%E6%89%80%E6%9C%89%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%A6%82%E4%B8%8B%E5%9B%BE%E5%AE%98%E6%96%B9%E7%9A%84%E6%B5%8B%E8%AF%95%E5%88%97%E8%A1%A8&#34;&gt;https://www.ventoy.net/，基本可以安装市面主流的所有操作系统，如下图官方的测试列表&lt;/a&gt;&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/cateattea/cloudimg/img/Snipaste_2021-04-10_14-43-46.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+ #三步装系统&lt;br&gt;
+ ## 用 Ventoy 制作系统盘&lt;br&gt;
+去官网下载 Ventoy 安装包，这个绝对有手就行，下载完成后进行解压，解压出来后运行 Ventoy2Disk.exe 这个程序&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/cateattea/cloudimg/img/Snipaste_2021-04-10_14-29-26.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;打开之后就更简单了，界面从来没用过的人都能看懂，设备里面选择提前准备好的空 U 盘，点击安装，over。就是这么简单，为所欲为。&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/cateattea/cloudimg/img/Snipaste_2021-04-10_14-30-22.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;安装完成后 U 盘将会变成下面这个样子，小容量的盘符不要去动它，大容量的那个就可以当作一个正常的 U 盘来使用，之后需要做的就是把想要安装的系统的镜像放在大容量盘符里面即可，也就是图里红框里面的第一个&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/cateattea/cloudimg/img/Snipaste_2021-04-10_14-35-05.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
+ ## 下载系统镜像&lt;br&gt;
+下载系统镜像的地方有很多，自己看着办，但是推荐一个网站：&lt;a href=&#34;https://msdn.itellyou.cn/&#34;&gt;MSDN，I tell you&lt;/a&gt;，懂得都懂，全是正版，不懂得也不多说什么了。看下图，举 Win10 系统为例，建议 Multiple 版本，里面有集合了专业版，复制红框内容浏览器打开，就会启动迅雷下载，前提是安装好迅雷。完成后把镜像文件 (.iso)，复制到 U 盘里面，over。&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/cateattea/cloudimg/img/Snipaste_2021-04-10_14-39-39.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;## 装系统&lt;br&gt;
+把 U 盘插入电脑，开机进入 BIOS，选择 U 盘启动，这时候就会进入装系统界面，如下图 (来自 Ventoy 官网)，里面会显示你 U 盘里的镜像，然后选择你要安装的系统，按 Enter 键即可开始，over。&lt;br&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/cateattea/cloudimg/img/Snipaste_2021-04-10_14-53-45.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;所以，就是真么简单无脑，就是这么纯净，直接起飞&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
