@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://cateattea.github.io</id>
+    <title>白猫喝红茶 • Posts by &#34;blog&#34; category</title>
+    <link href="https://cateattea.github.io" />
+    <updated>2021-05-23T11:39:51.442Z</updated>
+    <category term="C4D" />
+    <category term="原创" />
+    <category term="图片" />
+    <category term="系统" />
+    <category term="Ventoy" />
+    <category term="Windows" />
+    <category term="hexo" />
+    <category term="blog" />
+    <entry>
+        <id>https://cateattea.github.io/2021/05/23/hexo/</id>
+        <title>hexo test</title>
+        <link rel="alternate" href="https://cateattea.github.io/2021/05/23/hexo/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;just-test-hexo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#just-test-hexo&#34;&gt;#&lt;/a&gt; Just test hexo&lt;/h1&gt;
+</content>
+        <category term="hexo" />
+        <category term="blog" />
+        <updated>2021-05-23T11:39:51.442Z</updated>
+    </entry>
+</feed>

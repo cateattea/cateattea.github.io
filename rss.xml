@@ -5,14 +5,26 @@
         <link>https://cateattea.github.io</link>
         <description>仅仅是作为尝试！</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 10 Apr 2021 14:20:33 +0800</pubDate>
-        <lastBuildDate>Sat, 10 Apr 2021 14:20:33 +0800</lastBuildDate>
+        <pubDate>Sun, 23 May 2021 19:39:51 +0800</pubDate>
+        <lastBuildDate>Sun, 23 May 2021 19:39:51 +0800</lastBuildDate>
         <category>C4D</category>
         <category>原创</category>
         <category>图片</category>
         <category>系统</category>
         <category>Ventoy</category>
         <category>Windows</category>
+        <category>hexo</category>
+        <category>blog</category>
+        <item>
+            <guid isPermalink="true">https://cateattea.github.io/2021/05/23/hexo/</guid>
+            <title>hexo test</title>
+            <link>https://cateattea.github.io/2021/05/23/hexo/</link>
+            <category>hexo</category>
+            <category>blog</category>
+            <pubDate>Sun, 23 May 2021 19:39:51 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;just-test-hexo&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#just-test-hexo&#34;&gt;#&lt;/a&gt; Just test hexo&lt;/h1&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://cateattea.github.io/2021/04/10/Ventoy%E8%A3%85%E7%B3%BB%E7%BB%9F/</guid>
             <title>用Ventoy装系统</title>
