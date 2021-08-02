@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>白猫喝红茶 • Posts by &#34;may&#34; tag</title>
+        <link>https://cateattea.github.io</link>
+        <description>仅仅是作为尝试！</description>
+        <language>zh-CN</language>
+        <pubDate>Fri, 09 Apr 2021 14:08:33 +0800</pubDate>
+        <lastBuildDate>Fri, 09 Apr 2021 14:08:33 +0800</lastBuildDate>
+        <category>C4D</category>
+        <category>原创</category>
+        <category>图片</category>
+        <category>系统</category>
+        <category>Ventoy</category>
+        <category>Windows</category>
+        <category>may</category>
+        <category>information</category>
+        <item>
+            <guid isPermalink="true">https://cateattea.github.io/2021/04/09/test/</guid>
+            <title>一部分作品</title>
+            <link>https://cateattea.github.io/2021/04/09/test/</link>
+            <category>may</category>
+            <category>information</category>
+            <pubDate>Fri, 09 Apr 2021 14:08:33 +0800</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;test&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#test&#34;&gt;#&lt;/a&gt; Test&lt;/h1&gt;
+&lt;p&gt;This is my blog. MY name is may, I want share some interesting information with you.&lt;/p&gt;
+&lt;h2 id=&#34;this-is-the-second-stag&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#this-is-the-second-stag&#34;&gt;#&lt;/a&gt; This is the second stag&lt;/h2&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
